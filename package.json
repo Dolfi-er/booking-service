@@ -1,0 +1,10 @@
+{
+  "name": "booking-service",
+  "version": "1.0.0",
+  "description": "Meeting room booking web service — zero external dependencies",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test tests/"
+  }
+}
